@@ -2,7 +2,7 @@
 
 ## My Name Is Anuraj
 
-![image](https://github.com/Anuraj4/React-Weather-App/blob/main/Screenshot%202024-05-26%20122857.png)
+![image](https://github.com/Anuraj4/Images/blob/main/github_bg.png)
 
 
 <!--
