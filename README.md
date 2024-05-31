@@ -2,6 +2,9 @@
 
 ## My Name Is Anuraj
 
+![image](https://github.com/Anuraj4/React-Weather-App/blob/main/Screenshot%202024-05-26%20122857.png)
+
+
 <!--
 **Anuraj4/Anuraj4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
