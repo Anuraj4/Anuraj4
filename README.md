@@ -2,7 +2,7 @@
 
 ## My Name Is Anuraj
 
-![image](https://github.com/Anuraj4/Images/blob/main/github_bg.png)
+![image](https://github.com/Anuraj4/Anuraj4/blob/main/Anuraj%20Venkatpurwar%20(1).png)
 
 
 <!--
