@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-## My Name Is Anuraj
+# My Name Is Anuraj
 
 ![image](https://github.com/Anuraj4/Anuraj4/blob/main/Anuraj%20Venkatpurwar%20(1).png)
 
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a_n_u_r_a_j_70) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anuraj-venkatpurwar) 
 
 # 💻 Tech Stack:
