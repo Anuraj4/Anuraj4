@@ -43,8 +43,9 @@ Here are some ideas to get you started:
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Anuraj4&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+# 📈 Github Activity Graph
+
+<div><p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Anuraj4&bg_color=1A1B27&color=70A5FD&line=70A5FD&point=38BDAE&area=true&hide_border=false" /></p></div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Anuraj4&label=Profile%20Views&color=4&pretty=false)](https://visitcount.itsvg.in)
