@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 
 **Programming Languages:**
 
+[![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=python,java,javascript,php)](https://skillicons.dev)
 
 **Frontend Development:**
