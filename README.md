@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/a_n_u_r_a_j_70)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/anuraj-venkatpurwar)
-[![LeetCode](https://skillicons.dev/icons?i=leetcode)](https://leetcode.com/u/anuraj3690/)
+<a href="https://leetcode.com/u/anuraj3690/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
+</a>
 
 # 💻 Tech Stack:
 
