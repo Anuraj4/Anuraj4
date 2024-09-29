@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/anuraj-venkatpurwar)
 [![LeetCode](https://skillicons.dev/icons?i=leetcode)](https://leetcode.com/u/anuraj3690/)
 
-
 # 💻 Tech Stack:
 
 ### 💻 **Tech Stack**
