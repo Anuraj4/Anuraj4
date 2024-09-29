@@ -65,7 +65,10 @@ Here are some ideas to get you started:
 
 # 📈 Github Activity Graph
 
-<div><p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Anuraj4&bg_color=1A1B27&color=70A5FD&line=70A5FD&point=38BDAE&area=true&hide_border=false" /></p></div>
+<div align="center">
+  <h2>My GitHub Contribution Activity</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anuraj4&bg_color=1A1B27&color=70A5FD&line=70A5FD&point=38BDAE&area=true&hide_border=false" alt="GitHub Activity Graph"/>
+</div>
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
