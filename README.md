@@ -2,18 +2,9 @@
 
 # My Name Is Anuraj
 
-<a href="https://visitcount.itsvg.in" target="_blank">
-  <img src="https://visitcount.itsvg.in/api?id=Anuraj4&label=Profile%20Views&color=4&pretty=false" alt="Profile Views" class="animated-counter">
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Anuraj4&label=Profile%20Views&color=4&pretty=false" alt="Profile Views" />
 </a>
-
-<style>
-  .animated-counter {
-    transition: transform 0.3s ease-in-out;
-  }
-  .animated-counter:hover {
-    transform: scale(1.1);
-  }
-</style>
 
 ![image](https://github.com/Anuraj4/Anuraj4/blob/main/Anuraj%20Venkatpurwar%20(3).png)
 
