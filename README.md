@@ -36,7 +36,8 @@ Here are some ideas to get you started:
 
 **Programming Languages:**
 
-[![My Skills](https://skillicons.dev/icons?i=C++,python,java,javascript,php)](https://skillicons.dev)
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge" />
+[![My Skills](https://skillicons.dev/icons?i=python,java,javascript,php)](https://skillicons.dev)
 
 **Frontend Development:**
 
