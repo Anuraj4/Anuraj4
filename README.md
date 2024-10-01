@@ -33,8 +33,6 @@ Here are some ideas to get you started:
 
 # 💻 Tech Stack:
 
-### 💻 **Tech Stack**
-
 **Programming Languages:**
 
 [![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
