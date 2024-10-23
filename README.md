@@ -2,8 +2,6 @@
 
 # My Name Is Anuraj
 
-![Project Animation](https://media.giphy.com/media/your-gif-url.gif)
-
 [![](https://visitcount.itsvg.in/api?id=Anuraj4&label=Profile%20Views&color=4&pretty=false)](https://visitcount.itsvg.in)
 
 ![image](https://github.com/Anuraj4/Anuraj4/blob/main/Anuraj%20Venkatpurwar%20(3).png)
