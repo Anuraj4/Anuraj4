@@ -6,7 +6,6 @@
 
 ![image](https://github.com/Anuraj4/Anuraj4/blob/main/Anuraj%20Venkatpurwar%20(3).png)
 
-
 <!--
 **Anuraj4/Anuraj4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,7 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 
 # 🌐 Socials:
 
@@ -69,7 +67,6 @@ Here are some ideas to get you started:
   </h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anuraj4&bg_color=1A1B27&color=70A5FD&line=70A5FD&point=38BDAE&area=true&hide_border=false" alt="GitHub Activity Graph" style="border: 2px solid #70A5FD; border-radius: 10px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';"/>
 </div>
-
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
