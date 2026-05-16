@@ -1,68 +1,98 @@
-# Hi Friend👋
+<h1 align="center">Hi 👋, I'm Anuraj Venkatpurwar</h1>
+<h3 align="center">🚀 RPA Developer | Full-Stack Engineer | AI Automation Enthusiast</h3>
 
-# My Name Is Anuraj
-
-[![](https://visitcount.itsvg.in/api?id=Anuraj4&label=Profile%20Views&color=4&pretty=false)](https://visitcount.itsvg.in)
-
-![image](https://github.com/Anuraj4/Anuraj4/blob/main/Anuraj%20Venkatpurwar%20(3).png)
-
-<!--
-**Anuraj4/Anuraj4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# 🌐 Socials:
-
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/a_n_u_r_a_j_70)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/anuraj-venkatpurwar)
-<a href="https://leetcode.com/u/anuraj3690/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="55" height="55"/>
-</a>
-
-# 💻 Tech Stack:
-
-**Programming Languages:**
-
-[![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=python,java,javascript,php)](https://skillicons.dev)
-
-**Frontend Development:**
-
-[![Frontend Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react)](https://skillicons.dev)
-
-**Backend Development:**
-
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,nestjs,nodemon)](https://skillicons.dev)
-
-**Databases:**
-
-[![Databases](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
-
-**Tools**
-
-[![Tools](https://skillicons.dev/icons?i=git,postman,figma,vscode,premiere)](https://skillicons.dev)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Anuraj4&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-# 📈 Github Activity Graph
-
-<div align="center">
-  <h2 style="color: #70A5FD; font-family: Arial, sans-serif; text-shadow: 1px 1px 2px #1A1B27;">
-    My GitHub Contribution Activity
-  </h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anuraj4&bg_color=1A1B27&color=70A5FD&line=70A5FD&point=38BDAE&area=true&hide_border=false" alt="GitHub Activity Graph" style="border: 2px solid #70A5FD; border-radius: 10px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';"/>
-</div>
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Anuraj4&label=Profile%20Views&color=4&pretty=false" />
+</p>
 
 ---
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🧠 About Me
+
+💡 Passionate about building **intelligent automation systems** that reduce manual effort and improve efficiency  
+🤖 Specialized in **RPA (UiPath, Automation Anywhere A360)** and **AI-integrated workflows**  
+🌐 Full-stack developer with experience in **MERN stack applications**  
+📈 Focused on **scalable, real-world enterprise solutions**
+
+---
+
+## 🚀 What I Do
+
+- 🔹 Build **end-to-end RPA solutions** (A360, UiPath)
+- 🔹 Design **AI-powered automation workflows (OCR, Human-in-the-loop)**
+- 🔹 Develop **full-stack web applications (React, Node.js)**
+- 🔹 Automate **enterprise processes (ERP, EDI, SFTP, APIs)**
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 RPA & Automation
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
+![Automation Anywhere](https://img.shields.io/badge/A360-0052CC?style=for-the-badge&logo=automationanywhere&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
+
+### 💻 Programming
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🌐 Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+### 🗄️ Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+
+---
+
+## 💼 Featured Projects
+
+### 🔹 Veradigm – 835 EDI Generator Automation
+- ⚡ Built **end-to-end RPA pipeline in A360**
+- 🤖 Integrated **AI OCR + Canonical Data Model**
+- 📄 Generated **HIPAA-compliant 835 EDI files**
+- 🔁 Implemented **Human-in-the-Loop validation (ASW)**
+
+---
+
+### 🔹 BHR – Behavioral Health Automation
+- 🔄 Automated **document processing → ERP integration**
+- ⚙️ Built **unattended bot workflows**
+- 🧩 Designed **modular bot architecture (Master + Sub-bots)**
+- 🔗 Integrated **SharePoint, Excel, Outlook**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anuraj4&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anuraj4&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/anuraj-venkatpurwar">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://instagram.com/a_n_u_r_a_j_70">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://leetcode.com/u/anuraj3690/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+💡 I love turning **manual repetitive tasks into intelligent automated systems** 🚀
