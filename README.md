@@ -52,10 +52,6 @@ Here are some ideas to get you started:
 
 [![Tools](https://skillicons.dev/icons?i=git,postman,figma,vscode,premiere)](https://skillicons.dev)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anuraj4&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Anuraj4&theme=midnight-purple&hide_border=false)<br/>
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Anuraj4&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
